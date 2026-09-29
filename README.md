@@ -3,7 +3,7 @@
 Repository latihan dan tugas mata kuliah Pemrograman Web Dasar.
 
 <p align="center">
-  <img src="logo_isbal.jpg" alt="Logo ISB Atma Luhur" width="300">
+  <img src="logo_isbal.png" alt="Logo ISB Atma Luhur" width="300">
 </p>
 
 ---
@@ -13,4 +13,5 @@ Repository latihan dan tugas mata kuliah Pemrograman Web Dasar.
 - **NIM:** 2622500060
 - **Email:** 2622500060@mahasiswa.atmaluhur.ac.id
 - **Program Studi:** Sistem Informasi
+
 
