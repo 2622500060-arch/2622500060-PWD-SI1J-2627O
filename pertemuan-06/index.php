@@ -11,7 +11,7 @@ $statusAktif = true;
 $catatanTambahan = null;
 
 const NAMA_MATA_KULIAH = "Pemrograman Web Dasar";
-const PROFIL_GITHUB = "2622500060-arch"
+const PROFIL_GITHUB = "2622500060-arch";
 
 // Bagian 2: Operator
 $batasSemester = 8;
