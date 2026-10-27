@@ -1,8 +1,8 @@
 <?php
 // P6: PHP dasar dan pemrograman sisi peladen
 // Bagian 1: Variabel dan konstanta
-$nim = "2622500060
-$namaMahasiswa = "Bagus arizki ramadan"
+$nim = "2622500060";
+$namaMahasiswa = "Bagus arizki ramadan";
 $programStudi = "SI";
 $tahunAkademik = "2026/2027";
 $semester = 1;
