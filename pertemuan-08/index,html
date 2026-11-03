@@ -32,20 +32,13 @@
     <main>
       <section id="home">
         <h2>Halo, saya Bagus Arizki Ramadan, saat ini saya berusia 19 tahun alamat rumah saya di kacang pedang, hobi saya bermain gitar dan bermain futsal</h2>
-        <img src=<img src="foto.png" width="100" height="100">
+        <img src="img/foto-profil.png" alt="Foto Profil" width="100" height="140"/>
       </section>
 
       <section id="about">
         <h2>Tentang Saya</h2>
         <article>
           <h3>profil singkat</h3>
-          <p>Saya Mahasiswa Program Studi Sistem Informasi .</p>
-
-          <h3>Target Belajar</h3>
-          <ol>
-            <li>Memahami struktur html.</li>
-            <li>Menyusun Halaman web Semantik.</li>
-            <li>Memvalidasi dokumen HTML.</li>
-          </ol>
+          <p>Saya Mahasiswa Program Studi Sistem Informasi atmaluhur .</p>
         </article>
       </section>
