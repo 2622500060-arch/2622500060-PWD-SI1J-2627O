@@ -79,17 +79,17 @@ foreach ($minat as $topik) {
 
 // P6: PHP dasar dan pemrograman sisi peladen
 // Bagian 1: Variabel dan konstanta
-$nim = "2622500022";
-$namaMahasiswa = "Yazid Riandi";
+$nim = "2622500060";
+$namaMahasiswa = "bagus arizki ramadan;
 $programStudi = "SI";
 $tahunAkademik = "2026/2027";
-$semester = 2;
+$semester = 1;
 $ipk = "3.75";
 $statusAktif = true;
 $catatanTambahan = null;
 
 const NAMA_MATA_KULIAH = "Pemrograman Web Dasar";
-const PROFIL_GITHUB = "yazid-riandi/2622500022-PWD-SI1J-2627";
+const PROFIL_GITHUB = "https://github.com/2622500060-arch/2622500060-PWD-SI1J-2627O";
 
 // Bagian 2: Operator
 $batasSemester = 8;
