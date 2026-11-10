@@ -89,7 +89,7 @@ $statusAktif = true;
 $catatanTambahan = null;
 
 const NAMA_MATA_KULIAH = "Pemrograman Web Dasar";
-const PROFIL_GITHUB = "https://github.com/2622500060-arch/2622500060-PWD-SI1J-2627O";
+const PROFIL_GITHUB = "2622500060-arch/2622500060-PWD-SI1J-2627O";
 
 // Bagian 2: Operator
 $batasSemester = 8;
@@ -188,7 +188,7 @@ $pesan = $_SESSION['pesan'] ?? '';
             <h2>Selamat Datang</h2>
             <p>Halo, saya <strong><?php echo $namaMahasiswa; ?></strong>. Saya sedang mempelajari matakuliah <strong><?php print NAMA_MATA_KULIAH; ?></strong> pada tahun akademik <?php echo $tahunAkademik; ?>.</p>
 
-            <img src="img/foto-profil.jpg" width="200" height="250" alt="Foto Profil Nama Mahasiswa">
+            <img src="img/foto-profil.png" width="200" height="250" alt="Foto Profil Nama Mahasiswa">
         </section>
 
         <section id="about">
